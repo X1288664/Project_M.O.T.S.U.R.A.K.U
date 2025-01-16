@@ -1,5 +1,6 @@
 # もつ楽名簿管理システム
 
+# 名簿管理システム編
 # Requirement(必要なもの)
 
 * インターネットに接続しているデバイス(Windows,Linux,MacOS,Android,iOS,iPadOS)
@@ -17,20 +18,30 @@
 
  # 実行方法
  * Colabページにアクセス後、左の[▶]をクリックして実行してください。
- * [![image]
+![image](https://github.com/X1288664/Member-Analysis/blob/main/start.jpg)
+ * 操作は出力ログ欄にて実行します。
+ ![image](https://github.com/X1288664/Member-Analysis/blob/main/Run.jpg)
  * [1]を入力して名簿データをセットアップします。
  * [2]を入力して検索モードに切り替えます。(日付、ユーザーの検索ができます。)
  * ※日付はYYYY/MM/DD形式で入力してください。(例:1970/01/01)
  * 検索後、[y]を入力すると検索結果をダウンロード処理が開始されます。
  * ※ダウンローダーの仕様で一度プログラムを終了しないとダウンロードが開始されない場合があります。[3]を入力しプログラムを終了するとダウンロードが開始されます。
+ * 実行例
+   
+   ![image](https://github.com/X1288664/Member-Analysis/blob/main/info.jpg)
 
 # その他の機能
 * [0]はヘルプページです。使い方を確認できます。
 * [4]はトラブルシューティングページです。エラーが発生した場合に参照してください。
 * [5]はFAQ(質問と回答)ページです。開発者へ問い合わせる前に参照すると解決できる場合があります。
 
+# 名簿データの管理と編集
+ * 名簿データは私(パヤオ84世)が管理しています。
+ * 以下の画像をクリックするとGoogle Docsにアクセスし、名簿データのプレビューと編集ができます。
+ [![Open In Google Docs](https://github.com/X1288664/Member-Analysis/blob/main/Docs.png)](https://docs.google.com/document/d/1W3VyRMkS848heqvhlVJeQ791_u12d8UePjFlBrIzHps/edit?usp=sharing)
+
 # Author(作成者情報)
 
 * 作成者:パヤオ84世
 * 所属:Studio Marx
-* 問い合わせは
+* 問い合わせはオープンチャット:ジャマハルダ(管理人OC)にて私(パヤオ84世)をメンションしてください。
