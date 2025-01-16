@@ -1,7 +1,7 @@
 # もつ楽名簿管理システム
 
 # 名簿管理システム編
-# Requirement(必要なもの)
+# 必要なもの
 
 * インターネットに接続しているデバイス(Windows,Linux,MacOS,Android,iOS,iPadOS)
 * Googleアカウント
@@ -9,7 +9,7 @@
 
 (LINEのブラウザからは正常に動作しません)
 
-# How to Setup(セットアップ方法)
+# セットアップ方法
 
 1.Google Colabを使用するにはGoogleアカウントが必要です。作成していない場合は[Googleアカウントの作成ページ](https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2F%3Fptid%3D19027681%26ptt%3D8%26fpts%3D0&ec=futura_hpp_co_si_001_p&ifkv=AeZLP9-8IyIvSvK7adppDJzxCQmDUWDLztl_hHNhpQlEfdvd0OMlZNmS46th0pj6tbldYKSGlhvESw&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-821299437%3A1736301879681893&ddm=1)にアクセスしてGoogleアカウントを作成してください。
 
@@ -59,8 +59,16 @@
  * 以下の画像をクリックするとGoogle Docsにアクセスし、名簿データのプレビューと編集ができます。
  [![Open In Google Docs](https://github.com/X1288664/Member-Analysis/blob/main/Docs.png)](https://docs.google.com/document/d/1W3VyRMkS848heqvhlVJeQ791_u12d8UePjFlBrIzHps/edit?usp=sharing)
 
-# Author(作成者情報)
+# 作成者情報
 
-* 作成者:パヤオ84世
+* 作成者:パヤオ84世&ChatGPT
 * 所属:Studio Marx
 * 問い合わせはオープンチャット:ジャマハルダ(管理人OC)にて私(パヤオ84世)をメンションしてください。
+
+# ライセンス
+
+* This project code was partially generated with assistance from [OpenAI's ChatGPT.](https://chatgpt.com/)
+
+社内向けなら社外秘であることを明示する
+
+"もつ楽名簿管理システム" is Confidential.
