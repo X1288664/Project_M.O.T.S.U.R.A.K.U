@@ -15,7 +15,7 @@
 
 プロジェクトページへアクセスしてください
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HmqVV9T11W9te8m_vshk31-aTta1NnkM?usp=sharing)
-
+* ブックマークやお気に入り登録をしておくとアクセスしやすくなります
  # 機能
  * [0]ヘルプページです。使い方を確認できます。
  * [1]名簿データをシステム内にセットアップします。必ず最初に実行してください。
@@ -57,6 +57,7 @@
 # 名簿データの管理と編集
  * 名簿データは私(パヤオ84世)が管理しています。
  * 以下の画像をクリックするとGoogle Docsにアクセスし、名簿データのプレビューと編集ができます。
+ * ブラウザでブックマークやお気に入り登録をしておくとスムーズにアクセスできます
  [![Open In Google Docs](https://github.com/X1288664/Member-Analysis/blob/main/Docs.png)](https://docs.google.com/document/d/1W3VyRMkS848heqvhlVJeQ791_u12d8UePjFlBrIzHps/edit?usp=sharing)
 
 # 作成者情報
