@@ -1,10 +1,11 @@
 # もつ楽名簿管理システム
 # 名簿データの管理と編集
  * 名簿データは私(パヤオ84世)が管理しています。
- * 以下の画像をクリックするとGoogle Docsにアクセスし、名簿データのプレビューと編集ができます。
  * Googleアカウント不要でアクセスと編集が可能です。
  * ブラウザでブックマークやお気に入り登録をしておくとスムーズにアクセスできます
- [![Open In Google Docs](https://github.com/X1288664/Member-Analysis/blob/main/Docs.png)](https://docs.google.com/document/d/1W3VyRMkS848heqvhlVJeQ791_u12d8UePjFlBrIzHps/edit?usp=sharing)
+ * 以下の画像をクリックするとGoogle Docsにアクセスし、名簿データのプレビューと編集ができます。
+
+ [![Open In Google Docs](https://github.com/X1288664/Member-Analysis/blob/Files/Docs.png)](https://docs.google.com/document/d/1W3VyRMkS848heqvhlVJeQ791_u12d8UePjFlBrIzHps/edit?usp=sharing)
 ---
 * 新規メンバーが来たらユーザー名と日付を入力します。
 ---
