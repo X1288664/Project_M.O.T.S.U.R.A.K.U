@@ -1,6 +1,6 @@
 # ヘルプとトラブルシューティング
 # 使い方
-![image](https://github.com/X1288664/Member-Analysis/blob/main/How%20to.jpg)
+![image](https://github.com/X1288664/Member-Analysis/blob/Files/How%20to.jpg)
 * 1 - 検索する年を選択
 * 2 - 検索する月を選択
 * 3 - 検索する日を選択
@@ -9,11 +9,11 @@
 * 6 - 検索を実行
 * ユーザー検索と日付検索は同時に行えません。
 # 検索結果のダウンロード方法
-![image](https://github.com/X1288664/Member-Analysis/blob/main/Download.jpg)
+![image](https://github.com/X1288664/Member-Analysis/blob/Files/Download.jpg)
 
 ---
 # エラーが発生したら
-![image](https://github.com/X1288664/Member-Analysis/blob/main/error%20ex..jpg)
+![image](https://github.com/X1288664/Member-Analysis/blob/Files/error%20ex..jpg)
 以下を参照するとエラーを解決できる場合があります。
 * E001 - Network error: ネットワークエラー - インターネット接続を確認してください。
 * E204 - Result not found: 検索結果が見つからない - 入力条件を確認してください。
