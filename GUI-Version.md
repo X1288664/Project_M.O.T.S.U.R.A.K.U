@@ -1,4 +1,4 @@
-# GUI版
+# GUI版(Google Colab)
 * Ver1.1.0.Beta-Gradio test～Gradio Edition Ver.1.2.0.Beta
 ---
 # Ver.1.1.0.Beta-Gradio test
