@@ -1,7 +1,19 @@
 # ヘルプとトラブルシューティング
 # 使い方
-![image](https://github.com/X1288664/Member-Analysis/blob/main/download%20guide.jpg)
+![image](https://github.com/X1288664/Member-Analysis/blob/main/How%20to.jpg)
+* 1 - 検索する年を選択
+* 2 - 検索する月を選択
+* 3 - 検索する日を選択
+* 4 - 検索するユーザー名を入力
+* 5 - エクスポートの有無を選択
+* 6 - 検索を実行
+* ユーザー検索と日付検索は同時に行えません。
+# 検索結果のダウンロード方法
+![image](https://github.com/X1288664/Member-Analysis/blob/main/Download.jpg)
+
+---
 # エラーが発生したら
+![image](https://github.com/X1288664/Member-Analysis/blob/main/error%20ex..jpg)
 以下を参照するとエラーを解決できる場合があります。
 * E001 - Network error: ネットワークエラー - インターネット接続を確認してください。
 * E204 - Result not found: 検索結果が見つからない - 入力条件を確認してください。
@@ -10,3 +22,10 @@
 * ユーザー検索と日付検索が同時に選択されています: ユーザー検索、日付検索のどちらかを実行してください。
 * 検索条件が入力されていません: いずれか検索条件を入力して下さい。
 * E404 - Documents not found: 名簿データの用意が失敗 - ページを再読み込みしてください。
+# その他のエラーや不具合
+* エラーが解決しない,または不具合を発見した場合はジャマハルダ管理人OCにて私をメンションして下さい。
+---
+報告時にあると分かりやすい物
+* 不具合の内容
+* 発生条件
+* スクリーンショット
