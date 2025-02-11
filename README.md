@@ -18,6 +18,8 @@
 
 # 作成者情報
 
+* Project_M.O.T.S.U.R.A.K.U
+* The Member Organization Tracking System Utilizing Reliable Archiving & Key Utilities
 * 作成者:パヤオ84世&ChatGPT
 * 所属:Studio Marx
 * 問い合わせはオープンチャット:ジャマハルダ(管理人OC)にて私(パヤオ84世)をメンションしてください。
