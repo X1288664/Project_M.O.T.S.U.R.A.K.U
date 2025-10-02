@@ -8,7 +8,7 @@
  * ブラウザでブックマークやお気に入り登録をしておくとスムーズにアクセスできます
  * 以下の画像をクリックするとGoogle スプレッドシートにアクセスし、名簿データのプレビューができます。
 
- [![Open In Google spread seets](https://github.com/X1288664/Project_M.O.T.S.U.R.A.K.U/blob/Files/spread-seets.png)](https://docs.google.com/spreadsheets/d/e/2PACX-1vRYcWe9ZJJ7e1JH_J8f7AA2Vuzm2DW7bJhWSKKhVjlsoUq-VZiusHjVeBOR0VNjh5ELe1xNhA84J7I8/pub?gid=775460862&single=true&output=csv)
+ [![Open In Google spread seets](https://github.com/X1288664/Project_M.O.T.S.U.R.A.K.U/blob/Files/spread-seets.png)](https://docs.google.com/spreadsheets/d/1gu2e13gfjDZqgnAa-h6Hq8eBYW8o3J1pNLvAMbzqw8Y/edit?usp=sharing)
 ---
 * 新規メンバーが来たら以下のフォームより登録を行ってください。
 
