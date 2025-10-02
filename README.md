@@ -14,7 +14,7 @@
 
 [![Open In Google Forms](https://github.com/X1288664/Project_M.O.T.S.U.R.A.K.U/blob/Files/google-forms.png)](https://forms.gle/HVDYQWdkCrBxf7XQ9)
 ---
-# 編集上の注意
+# フォーム入力上の注意
 * 基本ありませんが、すべての項目に正しく入力してください。
 
 # 作成者情報
